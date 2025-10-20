@@ -1,0 +1,1 @@
+{"buildTime":"2025-10-19T03:46:13.823Z","sources":[{"id":"GenzToon","name":"GenzToon","author":"deathkai","desc":"Extension that pulls manga from https://genzupdates.com","contentRating":"EVERYONE","version":"0.0.1","icon":"icon.png","tags":[],"websiteBaseURL":"https://genzupdates.com","intents":5}],"builtWith":{"toolchain":"0.8.7","types":"0.8.7"}}
